@@ -10,6 +10,7 @@ includedTypes:
   - CMObject
   - CMPicture
   - CMProduct
+  - CMProductTeaser
   - CMResourceBundle
   - CMSite
   - CMTeasable

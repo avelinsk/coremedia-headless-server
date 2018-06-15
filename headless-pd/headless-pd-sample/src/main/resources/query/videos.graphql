@@ -41,7 +41,7 @@ fragment Teasable on CMTeasable {
     alt
     link
   }
-  ... on CMProduct {
+  ... on CMProductTeaser {
     price: floatSetting(key: "price")
   }
 }
